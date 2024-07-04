@@ -1,5 +1,5 @@
 // El styles lo importamos aquí, ya se carga después al compilar todo
-import '../scss/styles.scss';
+
 const hoursElement = document.getElementById('hours');
 const minutesElement = document.getElementById('minutes');
 const dayOfWeekElement = document.getElementById('day-of-week');
