@@ -1,6 +1,6 @@
 # Digital and analog clock
 
-![Imagen del proyecto]([https://github.com/eduardofierropro/Portafolio-y-CV/blob/main/IMAGEN-DEL-PROYECTO.jpg?raw=true](https://github.com/JoseAngelBelando/clock/blob/main/Captura%20de%20pantalla%202024-07-07%20092600.png))
+![Imagen del proyecto](https://github.com/JoseAngelBelando/clock/blob/main/Captura%20de%20pantalla%202024-07-07%20092600.png))
 
 ## Ejemplo en vivo
 
