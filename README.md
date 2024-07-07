@@ -34,7 +34,7 @@ Si quieres echar un vistazo al proyecto, te recomiendo:
 
 **Jose Angel Belando**
 
-- [Josetxoo33@gmail.com]
+- Josetxoo33@gmail.com
 - [LinkedIn](https://www.linkedin.com/in/tu-url-de-linkedin/)
 
 ## Instalación
